@@ -16,3 +16,12 @@
     width: 15px;
     height: 15px;
 }
+
+.skill_icon{
+    width: 60px;
+    height: 60px;
+}
+
+.equal-height {
+    height: 100%;
+}
