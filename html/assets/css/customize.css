@@ -25,3 +25,12 @@
 .equal-height {
     height: 100%;
 }
+
+.project_description{
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.project_description_container {
+    display: none;
+}
