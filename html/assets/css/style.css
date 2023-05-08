@@ -922,6 +922,12 @@
   border-radius: 5px
 }
 
+.project_image {
+  width: 350px;
+  height: 350px;
+  object-fit: cover;
+}
+
 .single_project .project_content {
   margin-top: 25px
 }
